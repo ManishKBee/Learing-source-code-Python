@@ -1,0 +1,7 @@
+Hello,
+Iam Manish Kumar Behera a noob coder started to code 
+in the month of oct in 2020 and started my Journey of 
+with Python language as my first programming language, 
+and writing this text file on 07 nov 2020 for file 
+i/o "with statement".
+Always save the text file to viwe the perfect output!
