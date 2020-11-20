@@ -1,0 +1,17 @@
+Data science is a "concept to unify 
+statistics, data analysis and their related methods" 
+in order to "understand and analyze actual phenomena" 
+with data 
+
+#$!& #$!& #$!& #$!& #$!& #$!&
+#$!& #$!& #$!& #$!& #$!& #$!&
+
+#$!& #$!& #$!& #$!&
+#$!& #$!& #$!& #$!&
+#$!& #$!& #$!& #$!& 
+
+always save the text file after any changes done to the 
+text for proper output from the file i/o code for the 
+text file  
+
+Hello, Iam Manish
